@@ -1,4 +1,4 @@
-# MECP Web / MECP Web
+# MECP Web
 
 **[Obrir la web](https://ferromargi.github.io/web/)**
 
