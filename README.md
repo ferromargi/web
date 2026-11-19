@@ -2,11 +2,14 @@
 
 **[Obrir la web](https://ferromargi.github.io/web/)**
 
-[English](#english) | [Català](#català) | [Español](#español)
+[Català](#català) | [English](#english) | [Español](#español)
 
 Una interfaz web interactiva para el protocolo **MECP** (*Mesh Emergency Communication Protocol*), diseñada para crear, revisar y enviar mensajes de emergencia estructurados.
 
 An interactive web interface for the **MECP** (*Mesh Emergency Communication Protocol*), designed to create, review and send structured emergency messages.
+
+
+Una interfície web interactiva per al protocol MECP (Mesh Emergency Communication Protocol), dissenyada per a crear, revisar i enviar missatges d'emergència estructurats.
 
 ---
 
@@ -73,11 +76,11 @@ Aquest projecte està basat en [MECP — Mesh Emergency Communication Protocol](
 | Fitxers d’idioma | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Codi de l’aplicació i del motor a [mecp-app](https://github.com/mecp-org/mecp-app) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) |
 
-El protocol MECP és lliure per sempre: qualsevol persona el pot implementar sense restriccions. L’especificació està dedicada al domini públic mitjançant CC0 1.0. [394][399]
+El protocol MECP és lliure per sempre: qualsevol persona el pot implementar sense restriccions. L’especificació està dedicada al domini públic mitjançant CC0 1.0.
 
-Els fitxers d’idioma es publiquen sota **CC BY 4.0**. Això permet copiar-los, adaptar-los i redistribuir-los, fins i tot amb finalitats comercials, sempre que es reconegui l’autoria original. [392][396]
+Els fitxers d’idioma es publiquen sota **CC BY 4.0**. Això permet copiar-los, adaptar-los i redistribuir-los, fins i tot amb finalitats comercials, sempre que es reconegui l’autoria original.
 
-El codi de l’aplicació i del motor de [mecp-app](https://github.com/mecp-org/mecp-app) es publica sota la **GNU General Public License versió 3 (GPLv3)**. Si es distribueix una versió modificada d’aquest codi, s’han de mantenir les mateixes llibertats i condicions de la llicència. [398][401]
+El codi de l’aplicació i del motor de [mecp-app](https://github.com/mecp-org/mecp-app) es publica sota la **GNU General Public License versió 3 (GPLv3)**. Si es distribueix una versió modificada d’aquest codi, s’han de mantenir les mateixes llibertats i condicions de la llicència.
 
 La traducció al català inclosa en aquest projecte es publica sota **CC BY 4.0**, respectant els termes dels fitxers d’idioma originals de MECP.
 
@@ -147,11 +150,11 @@ This project is based on [MECP — Mesh Emergency Communication Protocol](https:
 | Language files | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | App and engine code in [mecp-app](https://github.com/mecp-org/mecp-app) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) |
 
-The MECP protocol is free forever: anyone may implement it without restriction. Its specification is dedicated to the public domain under CC0 1.0. [394][395]
+The MECP protocol is free forever: anyone may implement it without restriction. Its specification is dedicated to the public domain under CC0 1.0.
 
-The language files are published under **CC BY 4.0**. They may be copied, adapted and redistributed, including for commercial purposes, provided that the original authorship is credited. [392][396]
+The language files are published under **CC BY 4.0**. They may be copied, adapted and redistributed, including for commercial purposes, provided that the original authorship is credited.
 
-The application and engine code in [mecp-app](https://github.com/mecp-org/mecp-app) is published under the **GNU General Public License version 3 (GPLv3)**. If a modified version of that code is distributed, the same freedoms and licence conditions must be preserved. [398][401]
+The application and engine code in [mecp-app](https://github.com/mecp-org/mecp-app) is published under the **GNU General Public License version 3 (GPLv3)**. If a modified version of that code is distributed, the same freedoms and licence conditions must be preserved.
 
 The Catalan translation included in this project is published under **CC BY 4.0**, respecting the terms of the original MECP language files.
 
@@ -222,11 +225,11 @@ Este proyecto está basado en [MECP — Mesh Emergency Communication Protocol](h
 | Archivos de idioma | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Código de la aplicación y del motor en [mecp-app](https://github.com/mecp-org/mecp-app) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) |
 
-El protocolo MECP es libre para siempre: cualquier persona puede implementarlo sin restricciones. La especificación está dedicada al dominio público mediante CC0 1.0. [394][395]
+El protocolo MECP es libre para siempre: cualquier persona puede implementarlo sin restricciones. La especificación está dedicada al dominio público mediante CC0 1.0.
 
-Los archivos de idioma se publican bajo **CC BY 4.0**. Esto permite copiarlos, adaptarlos y redistribuirlos, incluso con fines comerciales, siempre que se reconozca la autoría original. [392][396]
+Los archivos de idioma se publican bajo **CC BY 4.0**. Esto permite copiarlos, adaptarlos y redistribuirlos, incluso con fines comerciales, siempre que se reconozca la autoría original.
 
-El código de la aplicación y del motor de [mecp-app](https://github.com/mecp-org/mecp-app) se publica bajo la **GNU General Public License versión 3 (GPLv3)**. Si se distribuye una versión modificada de ese código, deben mantenerse las mismas libertades y condiciones de la licencia. [398][401]
+El código de la aplicación y del motor de [mecp-app](https://github.com/mecp-org/mecp-app) se publica bajo la **GNU General Public License versión 3 (GPLv3)**. Si se distribuye una versión modificada de ese código, deben mantenerse las mismas libertades y condiciones de la licencia.
 
 La traducción al catalán incluida en este proyecto se publica bajo **CC BY 4.0**, respetando los términos de los archivos de idioma originales de MECP.
 
