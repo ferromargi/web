@@ -4,12 +4,11 @@
 
 [Català](#català) | [English](#english) | [Español](#español)
 
-Una interfaz web interactiva para el protocolo **MECP** (*Mesh Emergency Communication Protocol*), diseñada para crear, revisar y enviar mensajes de emergencia estructurados.
+Una interfície web interactiva per al protocol MECP (Mesh Emergency Communication Protocol), dissenyada per a crear, revisar i enviar missatges d'emergència estructurats.
 
 An interactive web interface for the **MECP** (*Mesh Emergency Communication Protocol*), designed to create, review and send structured emergency messages.
 
-
-Una interfície web interactiva per al protocol MECP (Mesh Emergency Communication Protocol), dissenyada per a crear, revisar i enviar missatges d'emergència estructurats.
+Una interfaz web interactiva para el protocolo **MECP** (*Mesh Emergency Communication Protocol*), diseñada para crear, revisar y enviar mensajes de emergencia estructurados.
 
 ---
 
